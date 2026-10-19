@@ -1,5 +1,3 @@
-# "I defined the business data requirements, evaluated multiple sources, selected sources based on provenance and quality, designed a reproducible acquisition pipeline, validated the raw data, and then built the ML pipeline."
-
 ### How can data science help an Egyptian affordable/inspired fragrance brand understand its market and make better product decisions?
 
 What data do we need for the perfume business?
